@@ -1,7 +1,7 @@
 item_name,item_description,item_price,item_category,item_vegan,item_glutenfree
-Vegetable Spring Rolls,"Cabbage, celery, carrots, green onions and Chinese noodles in a crispy wonton wrapper.",8,Vegetarian,TRUE,FALSE
-Chilli Gobi,Fresh cauliflower prepared with fresh herbs and chili peppers.,10,Vegetarian,TRUE,TRUE
-Chilli Tofu,Grilled tofu prepared with fresh herbs and chili peppers.,10,Vegetarian,TRUE,TRUE
+Tres Golpes,"Egg, Fried Cheese, and Salami",10,Breakfast,FALSE,TRUE
+3 Eggs,Served Scrambled or Sunny-Side-Up,9,Breakfast,FALSE,TRUE
+Queso Frito y Salami,Fried Cheese & Salami,9,Breakfast,FALSE,TRUE
 Gobi Manchurian,Crispy cauliflower in savory Manchurian sauce.,13,Vegetarian,TRUE,FALSE
 Sweet & Sour Vegetable,Fresh vegetables mixed with pineapples in a sweet and source sauce.,13,Vegetarian,TRUE,TRUE
 Manchurian Vegetable,Round vegetable dumpling balls in a savory Manchurian sauce.,13,Vegetarian,TRUE,FALSE
